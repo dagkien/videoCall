@@ -1,0 +1,5 @@
+{
+  "rooms": [
+    { "id": 1, "name": "json-server", "code": "https://aula.daily.co/test" }
+  ]
+}
